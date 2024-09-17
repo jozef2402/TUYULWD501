@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://tuyulwd501.v8.js.cn/sitemap.xml
+Sitemap: https://tuyulwd501.v8.js.cn/sitemap.xml
